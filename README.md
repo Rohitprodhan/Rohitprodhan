@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rohitprodhan
-- 👀 I’m interested in Physics research, and learning new software skills.
+- 👀 I’m interested in Physics research and Machine Learning.
 - 🌱 I’m currently learning active matter systems and stochastic differential equations.
 - 💞️ I’m looking to collaborate on solving SDE using Python and C++
 - 📫 How to reach me [Rohit(Linkedin)](https://www.linkedin.com/in/rohitprodhan7/)
